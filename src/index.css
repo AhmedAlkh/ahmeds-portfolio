@@ -293,3 +293,8 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+header h2 {
+  padding-left: 3%;
+  padding-top: 1%;
+}
