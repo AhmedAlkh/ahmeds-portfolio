@@ -37,3 +37,5 @@ Color pallete selected with color pallete app(subject to change)
 
 In project page, projects will be displayed in similar fashion to first portfolio.
 Project link will be connected to screenshot of project. 'Click to view project!'?
+
+Change all styling elements(font, layout, colours).
