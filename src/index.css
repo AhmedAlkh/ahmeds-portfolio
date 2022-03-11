@@ -294,8 +294,14 @@ header h2 {
   height: 30px;
 }
 
-nav {
-  justify-content: space-between;
+nav ul{
+  display: flex;
+  justify-content: right;
+}
+
+nav ul li{
+  display: flex;
+  padding: 5px;
 }
 
 footer {
