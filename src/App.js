@@ -23,7 +23,6 @@ function App() {
       <hr></hr>
       <main>
         <div>{renderSection(currentSection)}</div>
-        {/* <About></About> */}
       </main>
       <Footer></Footer>
     </div>
