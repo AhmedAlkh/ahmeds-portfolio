@@ -32,6 +32,7 @@ function Footer() {
           </a>
         </li>
       </ul>
+      <div>Made with ❤️ by Ahmed, 2022.</div>
       </div>
     </footer>
   );

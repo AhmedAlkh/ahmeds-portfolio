@@ -1,4 +1,5 @@
 import React from 'react';
+import ContactForm from '../Contact';
 
 function Nav() {
 
@@ -20,7 +21,7 @@ function Nav() {
         <a href='/'>Portfolio</a>
       </li>
       <li>
-      <a href='/'>Contact</a>
+      <a href={ContactForm}>Contact</a>
       </li>
       <li>
       <a href="/">Resume</a>

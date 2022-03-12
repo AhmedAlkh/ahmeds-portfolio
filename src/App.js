@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
       <Nav></Nav>
+      <hr></hr>
       <main>
         <ContactForm></ContactForm>
         <About></About>

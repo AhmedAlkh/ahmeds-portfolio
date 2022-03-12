@@ -78,7 +78,7 @@ a:hover {
 }
 
 header {
-  background: #5CC3FF;
+  background: #ECE3D4;
 }
 
 header a {
@@ -307,4 +307,11 @@ nav ul li{
 footer {
   display: flex;
   justify-content: center;
+}
+
+hr {
+  width: 85%;
+  color: #141B41;
+  background-color: #141B41;
+  height: 3px;
 }
