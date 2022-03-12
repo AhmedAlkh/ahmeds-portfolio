@@ -99,6 +99,7 @@ button {
 
 button:hover {
   opacity: .8;
+  color: #5CC3FF;
 }
 
 button[disabled] {
@@ -260,10 +261,10 @@ textarea {
 }
 
 button {
-	background: #015022;
+	background: #141B41;
 	border: 0;
 	border-radius: 5px;
-	color: #5CC3FF;
+	color: #ECE3D4;
 	cursor: pointer;
 	font-size: 16px;
 	font-weight: 600;
@@ -314,4 +315,15 @@ hr {
   color: #141B41;
   background-color: #141B41;
   height: 3px;
+}
+
+header ul li:hover {
+  background: #92cccd;
+  border-radius: 15px;
+  opacity: 0.8;
+}
+
+.aboutMePic {
+  display: inline-flex;
+  justify-content: center;
 }
