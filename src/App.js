@@ -3,6 +3,7 @@ import About from './components/About';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Contact from './components/Contact';
+import Portfolio from './components/Portfolio';
 
 function App() {
   const [currentSection, setCurrentSection] = useState('about');
@@ -10,6 +11,8 @@ function App() {
     switch (currentSection) {
       case 'about':
         return <About/>;
+      case 'portfolio':
+        return <Portfolio/>;
       case 'contact':
         return <Contact/>
       default:
