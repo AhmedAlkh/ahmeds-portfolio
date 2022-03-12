@@ -283,7 +283,9 @@ a {
 }
 
 .navActive {
-  color: #015022;
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: #015022;
 }
 
 header h2 {
