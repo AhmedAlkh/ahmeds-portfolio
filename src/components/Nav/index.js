@@ -1,15 +1,9 @@
 import React from 'react';
-import ContactForm from '../Contact';
 
-function Nav() {
+function Nav(props) {
 
   return (
-    <header>
-  <h2>
-    <a href="/">
-    Ahmed Alkhatib
-    </a>
-  </h2>
+    
   <nav>
     <ul className="flex-row">
       <li>
@@ -21,14 +15,13 @@ function Nav() {
         <a href='/'>Portfolio</a>
       </li>
       <li>
-      <a href={ContactForm}>Contact</a>
+      <a href='/'>Contact</a>
       </li>
       <li>
       <a href="/">Resume</a>
       </li>
     </ul>
   </nav>
-</header>
   );
 }
 
