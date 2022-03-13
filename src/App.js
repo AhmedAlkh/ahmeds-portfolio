@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
+import Resume from './components/Resume';
 
 function App() {
   const [currentSection, setCurrentSection] = useState('about');
@@ -15,6 +16,8 @@ function App() {
         return <Portfolio/>;
       case 'contact':
         return <Contact/>
+      case 'resume':
+        return <Resume/>
       default:
         return <About/>
     }

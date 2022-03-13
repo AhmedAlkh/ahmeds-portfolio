@@ -93,7 +93,7 @@ function Portfolio() {
 	return (
 		<section>
 			<div className="center">
-				<h1 className="subtitle">Projects</h1>
+				<h1>Projects</h1>
 			</div>
 			<div>
 				<ul className="flex-row mobile-row">
