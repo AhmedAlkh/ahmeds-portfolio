@@ -1,5 +1,8 @@
 # Ahmed's Portfolio
 
+## Portfolio link
+https://ahmedalkh.github.io/ahmeds-portfolio/
+
 ## Description
 
 Welcome to my react portfolio! My portfolio includes an "about me" section, contact page to send me a message, resume page where you can view and download my resume, and some of my independant and group projects! NOTE: This portfolio will be updated and improved! Due to time constraints, current version is being deployed.
