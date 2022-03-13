@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ahmeds-portfolio/static/css/main.fba3a9f2.css",
+    "main.js": "/ahmeds-portfolio/static/js/main.4c1fcb0b.js",
+    "static/js/787.44171475.chunk.js": "/ahmeds-portfolio/static/js/787.44171475.chunk.js",
+    "static/media/run-buddy.png": "/ahmeds-portfolio/static/media/run-buddy.92a47aa3db5f6ea4010f.png",
+    "static/media/IMG_0340.jpeg": "/ahmeds-portfolio/static/media/IMG_0340.ed1c221f133297f84e08.jpeg",
+    "static/media/gnf.png": "/ahmeds-portfolio/static/media/gnf.3ab1af3e929201ae00ee.png",
+    "static/media/weather-dash.png": "/ahmeds-portfolio/static/media/weather-dash.9cce2d4de8c571efaa75.png",
+    "static/media/tech-blog.png": "/ahmeds-portfolio/static/media/tech-blog.7ffe2c56bd8bc530871f.png",
+    "static/media/ahmed-alkhatib-resume.pdf": "/ahmeds-portfolio/static/media/ahmed-alkhatib-resume.1dc41274537800832dc7.pdf",
+    "static/media/crm.png": "/ahmeds-portfolio/static/media/crm.56a582f2b970547bab1f.png",
+    "static/media/pg.png": "/ahmeds-portfolio/static/media/pg.bc3c4b0cfdfd082081db.png",
+    "static/media/linked-in-logo.png": "/ahmeds-portfolio/static/media/linked-in-logo.a95afc06831647f5fca2.png",
+    "static/media/gh-logo.png": "/ahmeds-portfolio/static/media/gh-logo.746ec8f0bc97208f903e.png",
+    "index.html": "/ahmeds-portfolio/index.html",
+    "main.fba3a9f2.css.map": "/ahmeds-portfolio/static/css/main.fba3a9f2.css.map",
+    "main.4c1fcb0b.js.map": "/ahmeds-portfolio/static/js/main.4c1fcb0b.js.map",
+    "787.44171475.chunk.js.map": "/ahmeds-portfolio/static/js/787.44171475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fba3a9f2.css",
+    "static/js/main.4c1fcb0b.js"
+  ]
+}
