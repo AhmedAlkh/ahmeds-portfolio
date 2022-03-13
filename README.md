@@ -33,5 +33,5 @@ GIVEN a single-page application portfolio for a web developer
 - WHEN I view the footer
 - THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
-Color pallete selected with color pallete app(subject to change)
-Change all styling elements(font, layout, colours).
+Update readme with readme generator, include screen shot.
+Deploy to github pages.
