@@ -77,16 +77,21 @@ function Portfolio() {
 			appLink: 'https://ahmedalkh.github.io/password-generator/',
 		},
 		{
-			projectName: 'Run Buddy',
+			projectName: 'Memestagram',
 			description:
-				'A website that offers fitness training services.',
-            screenShot: 'run-buddy.png',
+				'Memestagram is a visual platform. The purpose of this application is to enable users to share images with their audience.',
+            screenShot: 'Memestagram.png',
 			techUsed: [
-                'html', 
-                'css'
+                'React', 
+                'Express',
+				'Mongoose',
+				'Bcrypt',
+				'JWT',
+				'Mongodb',
+				'Cloudinary'
             ],
-			ghLink: 'https://github.com/AhmedAlkh/run-buddy',
-			appLink: 'https://AhmedAlkh.github.io/run-buddy/',
+			ghLink: 'https://github.com/AhmedAlkh/memestagram',
+			appLink: 'https://memestagram1.herokuapp.com/signin',
 		},
 	];
 
